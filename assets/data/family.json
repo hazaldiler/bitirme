@@ -1,0 +1,30 @@
+[
+  {
+    "foto": "assets/images/family.png",
+    "audio": "assets/audio/family.mp3"
+  },
+  {
+    "foto": "assets/images/mom.png",
+    "audio": "assets/audio/mom.mp3"
+  },
+  {
+    "foto": "assets/images/dad.png",
+    "audio": "assets/audio/dad.mp3"
+  },
+  {
+    "foto": "assets/images/grandfather.png",
+    "audio": "assets/audio/grandfather.mp3"
+  },
+  {
+    "foto": "assets/images/grandmother.png",
+    "audio": "assets/audio/grandmother.mp3"
+  },
+  {
+    "foto": "assets/images/sister.png",
+    "audio": "assets/audio/sister.mp3"
+  },
+  {
+    "foto": "assets/images/brother.png",
+    "audio": "assets/audio/brother.mp3"
+  }
+]

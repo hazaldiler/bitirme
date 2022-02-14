@@ -1,0 +1,35 @@
+[
+  {
+    "foto": "assets/images/bus.png",
+    "audio": "assets/audio/bus.mp3"
+  },
+  {
+    "foto": "assets/images/crane.png",
+    "audio": "assets/audio/crane.mp3"
+  },
+  {
+    "foto": "assets/images/forklif.png",
+    "audio": "assets/audio/forklif.mp3"
+  },
+  {
+    "foto": "assets/images/motorcycle.png",
+    "audio": "assets/audio/motorcycle.mp3"
+  },
+  {
+    "foto": "assets/images/ship.png",
+    "audio": "assets/audio/ship.mp3"
+  },
+  {
+    "foto": "assets/images/suv.png",
+    "audio": "assets/audio/suv.mp3"
+  },
+  {
+    "foto": "assets/images/train.png",
+    "audio": "assets/audio/train.mp3"
+  },
+  {
+    "foto": "assets/images/truck.png",
+    "audio": "assets/audio/truck.mp3"
+  }
+
+]

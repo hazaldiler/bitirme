@@ -1,0 +1,52 @@
+[
+  {
+    "number": "1",
+    "word": "One",
+    "audio": "assets/audio/one.mp3"
+  },
+  {
+    "number": "2",
+    "word": "Two",
+    "audio": "assets/audio/two.mp3"
+  },
+  {
+    "number": "3",
+    "word": "Three",
+    "audio": "assets/audio/three.mp3"
+  },
+  {
+    "number": "4",
+    "word": "Four",
+    "audio": "assets/audio/four.mp3"
+  },
+  {
+    "number": "5",
+    "word": "Five",
+    "audio": "assets/audio/five.mp3"
+  },
+  {
+    "number": "6",
+    "word": "Six",
+    "audio": "assets/audio/six.mp3"
+  },
+  {
+    "number": "7",
+    "word": "Seven",
+    "audio": "assets/audio/seven.mp3"
+  },
+  {
+    "number": "8",
+    "word": "Eight",
+    "audio": "assets/audio/eight.mp3"
+  },
+  {
+    "number": "9",
+    "word": "Nine",
+    "audio": "assets/audio/nine.mp3"
+  },
+  {
+    "number": "10",
+    "word": "Ten",
+    "audio": "assets/audio/ten.mp3"
+  }
+]

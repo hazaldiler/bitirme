@@ -1,0 +1,31 @@
+[
+  {
+    "foto": "assets/images/eye.png",
+    "audio": "assets/audio/eye.mp3"
+  },
+  {
+    "foto": "assets/images/eyebrow.png",
+    "audio": "assets/audio/eyebrow.mp3"
+  },
+  {
+    "foto": "assets/images/ear.png",
+    "audio": "assets/audio/ear.mp3"
+  },
+  {
+    "foto": "assets/images/nose.png",
+    "audio": "assets/audio/nose.mp3"
+  },
+  {
+    "foto": "assets/images/cheeks.png",
+    "audio": "assets/audio/cheeks.mp3"
+  },
+  {
+    "foto": "assets/images/lip.png",
+    "audio": "assets/audio/lip.mp3"
+  },
+  {
+    "foto": "assets/images/teeth.png",
+    "audio": "assets/audio/teeth.mp3"
+  }
+
+]

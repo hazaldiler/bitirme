@@ -1,0 +1,87 @@
+[
+  {
+    "foto": "assets/images/cat2.png",
+    "audio": "assets/audio/cat2.mp3"
+  },
+  {
+    "foto": "assets/images/zebra.png",
+    "audio": "assets/audio/zebra2.mp3"
+  },
+  {
+    "foto": "assets/images/snake.png",
+    "audio": "assets/audio/snake2.mp3"
+  },
+  {
+    "foto": "assets/images/lion.png",
+    "audio": "assets/audio/lion2.mp3"
+  },
+  {
+    "foto": "assets/images/cow2.png",
+    "audio": "assets/audio/cow2.mp3"
+  },
+  {
+    "foto": "assets/images/monkey.png",
+    "audio": "assets/audio/monkey2.mp3"
+  },
+  {
+    "foto": "assets/images/fil.png",
+    "audio": "assets/audio/elephant.mp3"
+  },
+  {
+    "foto": "assets/images/zurafa.png",
+    "audio": "assets/audio/giraffe.mp3"
+  },
+  {
+    "foto": "assets/images/panda.png",
+    "audio": "assets/audio/panda.mp3"
+  },
+  {
+    "foto": "assets/images/duck.png",
+    "audio": "assets/audio/duck2.mp3"
+  },
+  {
+    "foto": "assets/images/octopus.png",
+    "audio": "assets/audio/octopus.mp3"
+  },
+  {
+    "foto": "assets/images/dog.png",
+    "audio": "assets/audio/dog2.mp3"
+  },
+  {
+    "foto": "assets/images/rabbit.png",
+    "audio": "assets/audio/rabbit.mp3"
+  },
+  {
+    "foto": "assets/images/goril.png",
+    "audio": "assets/audio/gorilla.mp3"
+  },
+  {
+    "foto": "assets/images/gergedan.png",
+    "audio": "assets/audio/Rhino.mp3"
+  },
+  {
+    "foto": "assets/images/kangaroo.png",
+    "audio": "assets/audio/kangaroo.mp3"
+  },
+  {
+    "foto": "assets/images/fish.png",
+    "audio": "assets/audio/fish.mp3"
+  },
+  {
+    "foto": "assets/images/frog.png",
+    "audio": "assets/audio/frog.mp3"
+  },
+  {
+    "foto": "assets/images/mouse.png",
+    "audio": "assets/audio/mouse.mp3"
+  }
+
+
+
+
+
+
+
+
+
+]

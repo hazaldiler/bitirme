@@ -1,0 +1,34 @@
+[
+  {
+    "foto": "assets/images/apple.png",
+    "audio": "assets/audio/apple.mp3"
+  },
+  {
+    "foto": "assets/images/avocado.png",
+    "audio": "assets/audio/avocado.mp3"
+  },
+  {
+    "foto": "assets/images/plum.png",
+    "audio": "assets/audio/plum.mp3"
+  },
+  {
+    "foto": "assets/images/mango.png",
+    "audio": "assets/audio/mango.mp3"
+  },
+  {
+    "foto": "assets/images/banana.png",
+    "audio": "assets/audio/banana.mp3"
+  },
+  {
+    "foto": "assets/images/orange.png",
+    "audio": "assets/audio/orange.mp3"
+  },
+  {
+    "foto": "assets/images/peach.png",
+    "audio": "assets/audio/peach.mp3"
+  },
+  {
+    "foto": "assets/images/grape.png",
+    "audio": "assets/audio/grape.mp3"
+  }
+]

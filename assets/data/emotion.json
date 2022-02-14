@@ -1,0 +1,30 @@
+[
+    {
+      "foto": "assets/images/anger.png",
+      "audio": "assets/audio/anger.mp3"
+    },
+    {
+      "foto": "assets/images/contempt.png",
+      "audio": "assets/audio/contempt.mp3"
+    },
+    {
+      "foto": "assets/images/disgust.png",
+      "audio": "assets/audio/disgust.mp3"
+    },
+    {
+      "foto": "assets/images/fear.png",
+      "audio": "assets/audio/fear.mp3"
+    },
+    {
+      "foto": "assets/images/joy.png",
+      "audio": "assets/audio/joy.mp3"
+    },
+    {
+      "foto": "assets/images/sad.png",
+      "audio": "assets/audio/sad.mp3"
+    },
+    {
+      "foto": "assets/images/suprise.png",
+      "audio": "assets/audio/suprise.mp3"
+    }
+]
